@@ -2,7 +2,7 @@
 
 Teammates: Ryan and Derrick
 
-(Link to Github pages)[https://waterblokey.github.io/Lab8-Starter/]
+[Link to Github pages](https://waterblokey.github.io/Lab8-Starter/)
 
 ## How are graceful degradation and service workers related
 
